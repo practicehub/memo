@@ -36,7 +36,7 @@ OLLAMA_NUM_PARALLEL： 每个模型同时处理的最大并行请求数。默认
 
 打开WSL执行
 ```bash
-curl -fsSL https://ollama.com/install.sh | sh
+curl -fsSL https://ollama.com/install.sh | bash
 ```
 
 查看状态
