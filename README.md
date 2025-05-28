@@ -36,7 +36,7 @@ vmSwitch=WSLBridge
 
 ### 4. 重启WSL2虚拟机
 ```
-#   - 在PowerShell中运行：
+#   - 在PowerShell或者Command窗口中运行：
 wsl --shutdown
 #   - 然后重新启动WSL2
 ```
