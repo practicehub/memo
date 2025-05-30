@@ -74,3 +74,7 @@ sudo netplan apply
 # - 桥接后WSL2与主机在同一网段，可直接访问。
 # - 若遇到网络不通，检查防火墙和网卡配置。
 ```
+
+### 7. [NVIDIA CUDA 安装](https://docs.nvidia.com/cuda/wsl-user-guide/index.html)
+
+### 8. [AnythingLLM 安装](https://docs.anythingllm.com/installation-docker/available-images)
