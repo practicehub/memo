@@ -88,4 +88,10 @@ sudo apt-get update
 sudo apt-get -y install cuda-toolkit-12-9
 ```
 
+确认Nvidia GPU正常
+```bash
+sudo docker run --rm --gpus all nvidia/cuda:12.9.1-base-ubuntu24.04 nvidia-smi
+```
+
+
 ### 8. [AnythingLLM 安装](https://docs.anythingllm.com/installation-docker/available-images)
